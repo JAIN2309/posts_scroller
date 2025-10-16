@@ -1,4 +1,4 @@
-# 📌 Assignment Task App - Flutter + GetX (Skeleton)
+# 📌 Posts Scroller App - Flutter + GetX (Skeleton)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)](https://flutter.dev/)
 [![GetX](https://img.shields.io/badge/GetX-State%20Management-orange)](https://pub.dev/packages/get)
